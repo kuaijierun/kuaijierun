@@ -4,7 +4,6 @@
 
 [![笨鸟编程导航](https://img.shields.io/badge/%E7%BD%91%E7%AB%99-%E7%AC%A8%E9%B8%9F%E7%BC%96%E7%A8%8B%E5%AF%BC%E8%88%AA-%230066FF)](https://www.j301.cn/)
 [![Java面试那些事儿](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-Java%E9%9D%A2%E8%AF%95%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF-red)](https://mp.weixin.qq.com/s/zm8u-olqX92OpvtXJDKKVQ)
-[![技术博客](https://img.shields.io/badge/blog-%E7%AC%A8%E9%B8%9F%E6%95%99%E7%A8%8B-orange)](http://www.javatiku.cn/)
 
 </div>
 
